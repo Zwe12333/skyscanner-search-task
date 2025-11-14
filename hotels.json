@@ -1,0 +1,23 @@
+[
+  {
+    "id": "hotel-1",
+    "type": "hotel",
+    "name": "Petalborough Inn",
+    "city": "petalborough",
+    "price": 80.0
+  },
+  {
+    "id": "hotel-2",
+    "type": "hotel",
+    "name": "Rustburg Suites",
+    "city": "rustburg",
+    "price": 70.0
+  },
+  {
+    "id": "hotel-3",
+    "type": "hotel",
+    "name": "Shaleport Lodge",
+    "city": "shaleport",
+    "price": 65.0
+  }
+]

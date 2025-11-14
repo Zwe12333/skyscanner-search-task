@@ -1,0 +1,23 @@
+[
+  {
+    "id": "car-1",
+    "type": "car",
+    "name": "CityRent Compact",
+    "city": "petalborough",
+    "price": 35.0
+  },
+  {
+    "id": "car-2",
+    "type": "car",
+    "name": "Highway SUV",
+    "city": "rustburg",
+    "price": 60.0
+  },
+  {
+    "id": "car-3",
+    "type": "car",
+    "name": "Economy Hatch",
+    "city": "shaleport",
+    "price": 28.0
+  }
+]
